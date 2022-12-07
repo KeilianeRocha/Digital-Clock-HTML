@@ -1,10 +1,10 @@
 # Digital_Clock
  
-## Nesse projeto, foram utilizados alguns conhecimentos que venho adquirindo sobre CSS e HTML
+## Nesse projeto foram utilizados alguns conhecimentos que venho adquirindo sobre CSS e HTML
 
 
-`O RELÓGIO POSSUI UM DISPLAY QUE EXIBE AS HORA LOCAL EM HORAS(00), MINUTOS(00) E SEGUNDOS(00)`
-> O display de `HORAS`, `MINUTOS` e `SEGUNDOS` se movimentam de acordo com o horário local ⤵️
+`O RELÓGIO POSSUI UM DISPLAY QUE EXIBE A HORA LOCAL EM HORAS(00), MINUTOS(00) E SEGUNDOS(00)`
+> Os displays de `HORAS`, `MINUTOS` e `SEGUNDOS` se movimentam de acordo com o horário local ⤵️
 
 
 
@@ -28,7 +28,7 @@
                                          
                                          
                                          
-                                                         ❤️ Espero que gostem!
+                                                         ❤️ !
 
 
 <img align="right" alt="Keila-pic" width="370" height="250" style="border-radius:60px;" src="https://media.discordapp.net/attachments/997967526925443187/1048821192796151818/ezgif.com-gif-maker.gif?width=676&height=676">
