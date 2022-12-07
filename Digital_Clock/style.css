@@ -34,23 +34,23 @@ background: #2f363e;
     position: relative;
     transform: rotate(270deg);  
 }
-#time .circle:nth-child(1) svg /*bolinha verde*/
+#time .circle:nth-child(1) svg /*GREEN DOT*/
 {
     width: 250px;
     height: 250px;
 }
-#time .circle:nth-child(2) svg /*bolinha rosa*/
+#time .circle:nth-child(2) svg /*PINK DOT*/
 {
     width: 210px;
     height: 210px;
 }
-#time .circle:nth-child(3) svg /*bolinha amarela*/
+#time .circle:nth-child(3) svg /*YELLOW DOT*/
 {
     width: 170px;
     height: 170px;
 }
 
-#time .circle svg circle /*hora- minuti-segundo*/
+#time .circle svg circle /*HOUR- MINUTE-SECOND*/
 {
     width: 100%;
     height: 100%;
@@ -60,17 +60,17 @@ background: #2f363e;
     transform: translate(5px,5px);
     opacity: 0.25;
 }
-#time .circle:nth-child(1) svg circle /*seconds*/
+#time .circle:nth-child(1) svg circle /*SECOND*/
 {
 stroke-dasharray: 760; 
 stroke-dashoffset: 760;
 }
-#time .circle:nth-child(2) svg circle /*minutes*/
+#time .circle:nth-child(2) svg circle /*MINUTE*/
 {
 stroke-dasharray: 630;
 stroke-dashoffset: 630;
 }
-#time .circle:nth-child(3) svg circle /*hours*/
+#time .circle:nth-child(3) svg circle /*HOUR*/
 {
 stroke-dasharray: 510;
 stroke-dashoffset: 510;
